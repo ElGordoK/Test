@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bank.MainPage"
+             xmlns:local="clr-namespace:Bank">
+
+    <StackLayout BackgroundColor="#2E000D">
+        <!--<Frame BackgroundColor="#2196F3" Padding="30" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>-->
+        
+        <!--<Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at "/>
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>-->
+        <StackLayout HeightRequest="100" WidthRequest="340" BackgroundColor="#470115">
+            <Label Text="Жижа Банк" FontSize="34" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Label Text="У нас самая жидкая жижа" FontSize="20" HorizontalOptions="Center" VerticalOptions="Center"/>
+        </StackLayout>
+
+        <StackLayout HorizontalOptions="Center" Margin="0, 150, 0, 0">
+            <Label Text="Введите ваш логин:" FontSize="20"/>
+            <Entry HeightRequest="45" WidthRequest="330" FontSize="25"/>
+        </StackLayout>
+
+        <StackLayout HorizontalOptions="Center" Margin="0, 40, 0, 0">
+            <Label Text="Введите ваш пароль:" FontSize="20"/>
+            <Entry HeightRequest="45" WidthRequest="330" FontSize="25"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center"
+                     Margin="0,130,0,0">
+            <Button Text="Вход" FontSize="16" HeightRequest="40" WidthRequest="150" BackgroundColor="#470115"/>
+            <Button Text="Регистрация" FontSize="16" HeightRequest="40" WidthRequest="150" BackgroundColor="#470115"
+                    Clicked="RegButton_Clicked"/>
+        </StackLayout>
+        
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+E:\o Egorova razr mob pril\Bank\Bank\bin\Debug\netstandard2.0\Bank.deps.json
+E:\o Egorova razr mob pril\Bank\Bank\bin\Debug\netstandard2.0\Bank.dll
+E:\o Egorova razr mob pril\Bank\Bank\bin\Debug\netstandard2.0\ref\Bank.dll
+E:\o Egorova razr mob pril\Bank\Bank\bin\Debug\netstandard2.0\Bank.pdb
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\Bank.csprojAssemblyReference.cache
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfoInputs.cache
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfo.cs
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\Bank.csproj.CoreCompileInputs.cache
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\XamlC.stamp
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\Bank.dll
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\ref\Bank.dll
+E:\o Egorova razr mob pril\Bank\Bank\obj\Debug\netstandard2.0\Bank.pdb
